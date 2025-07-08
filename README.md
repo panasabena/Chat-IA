@@ -28,7 +28,7 @@
 
 1. Abre una terminal y navega a la carpeta del proyecto:
    ```bash
-   cd /Users/panasabena/PyProjects/chatpdf-backend
+   cd ruta/a/tu/proyecto
    ```
 
 2. Inicia el backend (FastAPI):
